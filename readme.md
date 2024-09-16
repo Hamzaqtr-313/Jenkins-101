@@ -12,7 +12,7 @@
 ```
 docker build -t myjenkins-blueocean:2.414.2 .
 
-docker pull devopsjourney1/jenkins-blueocean:2.332.3-1 && docker tag devopsjourney1/jenkins-blueocean:2.332.3-1 myjenkins-blueocean:2.332.3-1
+docker pull hamza313/jenkins-blueocean:2.332.3-1 && docker tag hamza313/jenkins-blueocean:2.332.3-1 myjenkins-blueocean:2.332.3-1
 ```
 
 ## Create the network 'jenkins'
@@ -53,5 +53,5 @@ docker inspect <container_id> | grep IPAddress
 
 ## Using Jenkins Python Agent
 ```
-docker pull devopsjourney1/myjenkinsagents:python
+docker pull hamza313/myjenkinsagents:python
 ```
