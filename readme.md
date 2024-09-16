@@ -1,3 +1,5 @@
+# Jenkins Interface from where you can create pipeline
+![image](https://github.com/user-attachments/assets/f12b2464-888d-4ad8-80c9-17e32702b971)
 
 # Installation
 ## Build the Jenkins BlueOcean Docker Image
