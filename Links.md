@@ -1,9 +1,9 @@
-#Links to get yourself started as a beginner
+# Links to get yourself started as a beginner
 
 # Setting Docker image:
 https://www.dataset.com/blog/create-docker-image/
 
-#Installation Reference:
+# Installation Reference:
 
 https://www.jenkins.io/doc/book/installing/docker/
 
